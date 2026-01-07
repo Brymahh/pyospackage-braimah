@@ -8,7 +8,7 @@
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
 If you don't plan to publish to PyPI, you can remove them.*
 
-pyospackage-braimah is a project that (describe what it does here).
+pyospackage-braimah is a project for the individual milestone in DSCI 524.
 
 ## Get started
 
@@ -18,13 +18,19 @@ You can install this package into your preferred Python environment using pip:
 $ pip install pyospackage-braimah
 ```
 
-TODO: Add a brief example of how to use the package to this section
+TODO: This package is explicitly for adding numbers and is published on TestPyPI.
+
+On your terminal or command prompt, run:
+
+```bash
+pip install -i https://test.pypi.org/simple/ pyospackage_braimah==0.1.0
+```
 
 To use pyospackage-braimah in your code:
 
 ```python
 >>> import pyospackage-braimah
->>> pyospackage-braimah.hello_world()
+>>> pyospackage-braimah.add_numbers(a, b)
 ```
 
 ## Copyright
