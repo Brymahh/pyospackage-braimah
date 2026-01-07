@@ -29,5 +29,5 @@ To use pyospackage-braimah in your code:
 
 ## Copyright
 
-- Copyright © 2026 godsgift braimah.
+- Copyright © 2026 Godsgift Braimah.
 - Free software distributed under the [MIT License](./LICENSE).
